@@ -6,7 +6,7 @@ This Udemy Courses Analysis Dashboard is created to provide valuable insights in
 
 # Dataset
 
-- <a href="https://github.com/mjahan11/Airbnb-Dataset-Analysis-Dashboard/blob/main/AirBnb_Newyork.xlsx">Dataset</a>
+- <a href="https://github.com/mjahan11/Udemy-Course-Analysis-Dashboard/blob/main/Udemy%20Course%20Dataset.csv">Dataset</a>
 # Dashboard View
 
 ![image](https://github.com/user-attachments/assets/76e60d25-6d61-4767-9232-91ec6c842c61)
