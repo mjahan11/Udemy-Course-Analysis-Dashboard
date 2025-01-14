@@ -11,7 +11,7 @@ This Udemy Courses Analysis Dashboard is created to provide valuable insights in
 
 ![image](https://github.com/user-attachments/assets/76e60d25-6d61-4767-9232-91ec6c842c61)
 
-<a href="https://github.com/mjahan11/Airbnb-Dataset-Analysis-Dashboard/blob/main/AirBnB_NYC_Report.pbix">Click to Download pbix file </a>
+<a href="https://github.com/mjahan11/Udemy-Course-Analysis-Dashboard/blob/main/Udemy%20Course%20Analysis%20Dashboard.pbix">Click to Download pbix file </a>
 
 Students Analysis: 
 Track the total count and growth trends of students across all courses in different t years.
